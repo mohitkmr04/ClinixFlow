@@ -44,7 +44,7 @@ const Footer = () => {
 
       <hr className="border-gray-300 dark:border-gray-700" />
       <p className="py-5 text-sm text-center">
-        © 2024 Prescripto.com — All rights reserved.
+        © 2024 ClinixFlow.com — All rights reserved.
       </p>
     </footer>
   );
